@@ -181,3 +181,12 @@ let pdfLinks = [];
 
 
 }
+
+
+
+// buy me a coffee 
+function buycoffee() {
+  var linkUrl = "https://github.com/Dharmesh-yadavo/notewave/blob/main/buymecoffeeQR.png?raw=true";
+
+  window.open(linkUrl, '_blank');
+}
