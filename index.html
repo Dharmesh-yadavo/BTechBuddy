@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
   <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta charset="utf-8">
     <title>NoteWave</title>
     <!-- google font  -->
@@ -57,7 +58,7 @@
         <label for="">Option:</label>
         <select id="Option">
           <option value="Notes">Notes</option>
-          <option value="Question Papers">Question Papers</option>
+          <option value="Question Papers">PYQ</option>
           <option value="Akash">Akash</option>
           <option value="Practical Files">Practical Files</option>
           <option value="Ebooks">Ebooks</option>
@@ -75,7 +76,10 @@
     <div id="pdfContainer"></div>
   </div>
 
- 
+  <div onclick="buycoffee()" id="coffee-button" class="coffee-button">
+    <img src="coffee.png" alt="Coffee Icon">
+    <span id="coffee-text">Buy me a<br>coffee</span>
+  </div>
 
 </section>
 
@@ -98,7 +102,7 @@
         &copy; 2024 <b>NoteWave</b>. All rights reserved.
     </div>
     <div class="devloper">
-      Developed by Dharmesh Yadav
+      <p>Developed by Dharmesh Yadav</p>
       <a href="https://www.linkedin.com/in/dharmesh-yadavoprofile" target="_blank" class="icon icon-linkedin">
         <i class="fa-brands fa-linkedin" aria-hidden="true"></i>
       </a>
