@@ -12,6 +12,7 @@ let pdfLinks = [];
 
       case 'Notes':
       console.log("hi")
+        pdfLinks.push(`<a href="https://drive.google.com/file/d/1rKM1J6E9y7FN_aIv3ebCkUQ0K_Sa1Vgh/view?usp=sharing" target="_blank">Unit-1 and Unit-2 Notes</a>`);
         pdfLinks.push(`<a href="https://drive.google.com/file/d/1BnuaKDxkcfKI_HQqZVYnhfvKpwHKu2Jr/view?usp=sharing" target="_blank">Thermodynamics Notes </a>`);
         // pdfLinks.push(`<a href="https://www.awwwards.com/websites/illustration/" target="_blank">Download Notes</a>`);
         break;
@@ -19,7 +20,7 @@ let pdfLinks = [];
         pdfLinks.push(`<a href="https://drive.google.com/file/d/1c2d_R4H5JJQN0kMbx83A4IL5v5mMw50r/view?usp=sharing">First Semester PYQs</a>`);
         break;
       case 'Akash':
-        pdfLinks.push(`<a href="https://drive.google.com/file/d/1ErbQw9ewJMoMYW6dxq0lthJcO2789Htz/view?usp=sharing" target="_blank">Physics Akash</a>`);
+        pdfLinks.push(`<a href="https://drive.google.com/file/d/1JVcTOHXbysEBhot5zzlJWFQEVcZJZ8pA/view?usp=sharing" target="_blank">Physics Akash</a>`);
         break;
       case 'Practical Files':
         pdfLinks.push(`<a href="https://drive.google.com/file/d/1dY2Ab5AgHScE65nhTT12YAONgkzs_2Lo/view?usp=sharing" target="_blank">Lab Manuals</a>`);
@@ -80,7 +81,7 @@ let pdfLinks = [];
       // pdfLinks.push(`<a href="" target="_blank">Download Notes</a>`);
         break;
       case 'Question Papers':
-      pdfLinks.push(`<a href="https://drive.google.com/file/d/16o72FyXNwZXZm8UHqBVu3i4cSrKTgeXo/view?usp=sharing" target="_blank">First Semester PYQs</a>`);
+      pdfLinks.push(`<a href="https://drive.google.com/file/d/1og9SoAw20uP_DXUbA51l3Ffdw8x1YNJ_/view?usp=sharing" target="_blank">First Semester PYQs</a>`);
         break;
       case 'Akash':
       pdfLinks.push(`<a href="https://drive.google.com/file/d/1-YR2u8sk-xW3S8zmS2-hs6rNZP5iJb1U/view?usp=sharing" target="_blank">Math Akash</a>`);
@@ -112,6 +113,7 @@ let pdfLinks = [];
       pdfLinks.push(`<a href="https://drive.google.com/file/d/1Gr5GL6xikHEQ3BTEeZoG7edEn_3KWCuo/view?usp=sharing" target="_blank">Unit 1 Notes four</a>`);
         break;
       case 'Question Papers':
+      pdfLinks.push(`<a href="https://drive.google.com/file/d/1h9FSkRf11GzkbvcOXr3pHJ_1JnNIbjCR/view?usp=sharing" target="_blank">Important Questions</a>`);
       pdfLinks.push(`<a href="https://drive.google.com/file/d/1C8qmwWV4O3zGP6mEhwbq2eKP9xELzr56/view?usp=sharing" target="_blank">First Semester PYQs</a>`);
         break;
       case 'Akash':
@@ -135,6 +137,7 @@ let pdfLinks = [];
     switch (option) {
 
       case 'Notes':
+      pdfLinks.push(`<a href="https://drive.google.com/file/d/1l-4xNMthIo8qB6lqct_Bf6mT8YCB2cjn/view?usp=sharing" target="_blank">1st Year Notes</a>`);
       pdfLinks.push(`<a href="https://drive.google.com/file/d/1HNZXAeeCxS_wx3wIox_WfzSeDG8nZzh3/view?usp=sharing" target="_blank">1st and 2nd Semester Notes</a>`);
       pdfLinks.push(`<a href="https://drive.google.com/file/d/1A5eh_cp5eVMMw0tT5XNQ1Z4LbRvEfJ-7/view?usp=sharing" target="_blank">DC Circuit Notes 1</a>`);
       pdfLinks.push(`<a href="https://drive.google.com/file/d/1zn3Rj-ygxK09iIHwhIDbI8WOMi1DvTUO/view?usp=sharing" target="_blank">DC Circuit Notes 2</a>`);
@@ -143,7 +146,7 @@ let pdfLinks = [];
       pdfLinks.push(`<a href="https://drive.google.com/file/d/16awPRpsy2iWUbsmSLbfQa6yLnldqJj2w/view?usp=sharing" target="_blank">First Semester PYQs</a>`);
         break;
       case 'Akash':
-      pdfLinks.push(`<a href="https://drive.google.com/file/d/1ddVkoB5pnikwze1kdasFGS_y0HQZhBox/view?usp=sharing" target="_blank">Electrical Science Akash</a>`);
+      pdfLinks.push(`<a href="https://drive.google.com/file/d/1BTXDZCvcluPUtotEzVb7zqv9Bl9VTIGl/view?usp=sharing" target="_blank">Electrical Science Akash</a>`);
         break;
       case 'Practical Files':
       pdfLinks.push(`<a href="https://drive.google.com/file/d/10jmDe4JEBE-fV_achjPq2QCaYDGcSYp5/view?usp=sharing" target="_blank">Practical File 1</a>`);
@@ -160,7 +163,6 @@ let pdfLinks = [];
 
 //Default case
     default:
-    console.log("Invalid Option")
       break;
   }
 
