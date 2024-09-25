@@ -50,6 +50,7 @@ let pdfLinks = [];
         break;
       case 'Question Papers':
       pdfLinks.push(`<a href="https://drive.google.com/file/d/1q7yiYfO7bTB2LL-WdGeu4dzJlx9iNORG/view?usp=sharing" target="_blank">First Semester PYQs</a>`);
+      pdfLinks.push(`<a href="https://docs.google.com/document/d/1fXTOks__QMoLsH4y5mMfOS81z4nGyj0y/edit?usp=sharing&ouid=110539430903575462073&rtpof=true&sd=true" target="_blank">Most Repeated Questions</a>`);
         break;
         case 'Akash':
       pdfLinks.push(`<a href="https://drive.google.com/file/d/1-TbfqzKkSWxWefUT34BvLCLf91lXsSza/view?usp=sharing" target="_blank">Chaemistry Akash</a>`);
@@ -107,12 +108,12 @@ let pdfLinks = [];
     switch (option) {
 
       case 'Notes':
-      pdfLinks.push(`<a href="https://drive.google.com/file/d/1x8PK1BtBKzlXOE5FLxWZ_HNBejJMPox9/view?usp=sharing" target="_blank">Unit 1 Notes one</a>`);
-      pdfLinks.push(`<a href="https://drive.google.com/file/d/1N2iLjh3CdJ0Sx7_dTDb8UIhod2bR9kR_/view?usp=sharing" target="_blank">Unit 1 Notes two</a>`);
-      pdfLinks.push(`<a href="https://drive.google.com/file/d/1oMXXASCgn-yWGIWSWuya17kYz-1rCwnk/view?usp=sharing" target="_blank">Unit 1 Notes three</a>`);
-      pdfLinks.push(`<a href="https://drive.google.com/file/d/1Gr5GL6xikHEQ3BTEeZoG7edEn_3KWCuo/view?usp=sharing" target="_blank">Unit 1 Notes four</a>`);
+      pdfLinks.push(`<a href="https://drive.google.com/file/d/1_qmzntbKvwOHvZ_SrJ-ZanwKt1CP5S8H/view?usp=sharing" target="_blank">Unit 1 Notes one</a>`);
+      pdfLinks.push(`<a href="https://drive.google.com/file/d/1x8PK1BtBKzlXOE5FLxWZ_HNBejJMPox9/view?usp=sharing" target="_blank">Unit 1 Handwriteen Notes</a>`);
+      pdfLinks.push(`<a href="https://drive.google.com/file/d/1N2iLjh3CdJ0Sx7_dTDb8UIhod2bR9kR_/view?usp=sharing" target="_blank">Unit 1 Handwriteen Notes</a>`);
         break;
       case 'Question Papers':
+      pdfLinks.push(`<a href="https://drive.google.com/file/d/19IRb_SUGowf8S-w_SQDsn9EK22Vn_Bas/view?usp=sharing" target="_blank">Must Do Questions</a>`);
       pdfLinks.push(`<a href="https://drive.google.com/file/d/1h9FSkRf11GzkbvcOXr3pHJ_1JnNIbjCR/view?usp=sharing" target="_blank">Important Questions</a>`);
       pdfLinks.push(`<a href="https://drive.google.com/file/d/1C8qmwWV4O3zGP6mEhwbq2eKP9xELzr56/view?usp=sharing" target="_blank">First Semester PYQs</a>`);
         break;
