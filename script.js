@@ -44,10 +44,10 @@ let pdfLinks = [];
     switch (option) {
 
       case 'Notes':
-      pdfLinks.push(`<a href="https://drive.google.com/file/d/1pzJgyOq9Lk0Xyyf-QRAD22hvMR0ISU3n/view?usp=sharing" target="_blank">Fuel Notes 1</a>`);
-      pdfLinks.push(`<a href="https://drive.google.com/file/d/11h9eETixYaepAbmrO1-qG3H1n9wCv7pd/view?usp=sharing" target="_blank">Fuel Notes 2</a>`);
-      pdfLinks.push(`<a href="https://drive.google.com/file/d/1ka4lxvsFbsQ-G47bq297xcDiM25-Trg4/view?usp=sharing" target="_blank">Fuel Notes 3</a>`);
-      pdfLinks.push(`<a href="https://drive.google.com/file/d/18CuFXZJuwjbdFdK4tK8zMOwBsDNAeawo/view?usp=sharing" target="_blank">Fuel Notes 4</a>`);
+      pdfLinks.push(`<a href="https://drive.google.com/file/d/1Sq_6S05vuTc5I5dg-bQ6FHAaxPqx2g5I/view?usp=sharing" target="_blank">Fuel Notes </a>`);
+      // pdfLinks.push(`<a href="https://drive.google.com/file/d/11h9eETixYaepAbmrO1-qG3H1n9wCv7pd/view?usp=sharing" target="_blank">Fuel Notes 2</a>`);
+      // pdfLinks.push(`<a href="https://drive.google.com/file/d/1ka4lxvsFbsQ-G47bq297xcDiM25-Trg4/view?usp=sharing" target="_blank">Fuel Notes 3</a>`);
+      // pdfLinks.push(`<a href="https://drive.google.com/file/d/18CuFXZJuwjbdFdK4tK8zMOwBsDNAeawo/view?usp=sharing" target="_blank">Fuel Notes 4</a>`);
         break;
       case 'Question Papers':
       pdfLinks.push(`<a href="https://drive.google.com/file/d/1q7yiYfO7bTB2LL-WdGeu4dzJlx9iNORG/view?usp=sharing" target="_blank">First Semester PYQs</a>`);
@@ -109,9 +109,8 @@ let pdfLinks = [];
     switch (option) {
 
       case 'Notes':
-      pdfLinks.push(`<a href="https://drive.google.com/file/d/1_qmzntbKvwOHvZ_SrJ-ZanwKt1CP5S8H/view?usp=sharing" target="_blank">Unit 1 Notes one</a>`);
-      pdfLinks.push(`<a href="https://drive.google.com/file/d/1x8PK1BtBKzlXOE5FLxWZ_HNBejJMPox9/view?usp=sharing" target="_blank">Unit 1 Handwriteen Notes</a>`);
-      pdfLinks.push(`<a href="https://drive.google.com/file/d/1N2iLjh3CdJ0Sx7_dTDb8UIhod2bR9kR_/view?usp=sharing" target="_blank">Unit 1 Handwriteen Notes</a>`);
+      pdfLinks.push(`<a href="https://drive.google.com/file/d/1_qmzntbKvwOHvZ_SrJ-ZanwKt1CP5S8H/view?usp=sharing" target="_blank">Unit 1 Notes</a>`);
+      pdfLinks.push(`<a href="https://drive.google.com/file/d/1YYTl6D12lWQ1abLvtqpqGtkb3TIe9kfH/view?usp=sharing" target="_blank">Complete Manufacturing Notes</a>`);
         break;
       case 'Question Papers':
       pdfLinks.push(`<a href="https://drive.google.com/file/d/19IRb_SUGowf8S-w_SQDsn9EK22Vn_Bas/view?usp=sharing" target="_blank">Must Do Questions</a>`);
