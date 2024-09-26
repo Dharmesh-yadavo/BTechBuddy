@@ -11,7 +11,6 @@ let pdfLinks = [];
     switch (option) {
 
       case 'Notes':
-      console.log("hi")
         pdfLinks.push(`<a href="https://drive.google.com/file/d/1rKM1J6E9y7FN_aIv3ebCkUQ0K_Sa1Vgh/view?usp=sharing" target="_blank">Unit-1 and Unit-2 Notes</a>`);
         pdfLinks.push(`<a href="https://drive.google.com/file/d/1BnuaKDxkcfKI_HQqZVYnhfvKpwHKu2Jr/view?usp=sharing" target="_blank">Thermodynamics Notes </a>`);
         // pdfLinks.push(`<a href="https://www.awwwards.com/websites/illustration/" target="_blank">Download Notes</a>`);
@@ -31,6 +30,8 @@ let pdfLinks = [];
         break;
       case 'Ebooks':
         pdfLinks.push(`<a href="https://drive.google.com/file/d/1IfuYGOCpMNlunQop9gXOVntRj9lNgltR/view?usp=sharing" target="_blank">Thermodynamics By Devraj Singh</a>`);
+        pdfLinks.push(`<a href="https://drive.google.com/file/d/1-Qngw7A4FeU3wC8vNZSn96QsclThA-3P/view?usp=sharing" target="_blank">Waves and Oscillations By Devraj Singh</a>`);
+        pdfLinks.push(`<a href="https://drive.google.com/file/d/1RH0lY5Cztocuz7aFZajGoszrMA-UY-r3/view?usp=sharing" target="_blank">Introduction to Electromagnetic Theory By Devraj Singh</a>`);
         break;
       default:
       console.log("Invalid Option")
