@@ -114,7 +114,7 @@ let pdfLinks = [];
         break;
       case 'Question Papers':
       pdfLinks.push(`<a href="https://drive.google.com/file/d/19IRb_SUGowf8S-w_SQDsn9EK22Vn_Bas/view?usp=sharing" target="_blank">Must Do Questions</a>`);
-      pdfLinks.push(`<a href="https://drive.google.com/file/d/1h9FSkRf11GzkbvcOXr3pHJ_1JnNIbjCR/view?usp=sharing" target="_blank">Important Questions</a>`);
+      pdfLinks.push(`<a href="https://docs.google.com/document/d/1-SU1OYIs4VjQ7vDqEVtNs1Z63r88M_Pp/edit?usp=sharing&ouid=110539430903575462073&rtpof=true&sd=true" target="_blank">Most Repeated Questions</a>`);
       pdfLinks.push(`<a href="https://drive.google.com/file/d/1C8qmwWV4O3zGP6mEhwbq2eKP9xELzr56/view?usp=sharing" target="_blank">First Semester PYQs</a>`);
         break;
       case 'Akash':
