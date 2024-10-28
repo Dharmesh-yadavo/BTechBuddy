@@ -1,3 +1,4 @@
+/* background styling started  */
 body, .navbar {
   margin: auto;
   font-family: -apple-system, BlinkMacSystemFont, sans-serif;
@@ -67,11 +68,14 @@ body, .navbar {
       transform: translateX(1);
   }
 }
+/* background styling ended   */
 
-
+/* navbar style added  */
 .navbar{
   background-color: transparent;
 }
+/* ..  */
+
 .main{
   display: flex;
   height: 200px;
@@ -96,10 +100,8 @@ body, .navbar {
   font-weight: bolder;
   padding: 3px;
 }
-/* .main_3 button:hover {
-  background-color: #007BFF;
-} */
 
+/* display changes for phone  */
 @media only screen and (min-width: 700px) {
   .main_item{
     display: flex;
@@ -108,15 +110,13 @@ body, .navbar {
     margin-right: 20px;
   }
 }
-
+/*  */
 
 .solution{
   font-family: cursive;
-  /* background-color: #F5F7F8; */
   margin: 3%;
   font-size: 32px;
   font-weight: bolder;
-  /* border: 2px solid lightgrey; */
   border-radius: 8px;
   padding: 1% 5%;
 }
@@ -145,7 +145,6 @@ body, .navbar {
 }
 .card a {
     text-decoration: none;
-    /* color: #007BFF; */
 }
 
 /* buy me a coffee css */
@@ -168,48 +167,32 @@ body, .navbar {
   overflow: hidden;
   height: 65px;
   z-index: 3;
-  /* Initial width */
 }
-
 .coffee-button img {
   width: 40px;
-  /* Size of the coffee icon */
 }
-
 .coffee-button #coffee-text {
   display: none;
   margin-left: 12px;
   text-wrap: nowrap;
-  /* Initially hidden */
 }
-
-
-/* Expand the button */
-
 .coffee-button.expanded {
   width: 150px;
   font-size: 15px;
   height: 65px;
-  /* Expanded width */
 }
-
 .coffee-button.expanded #coffee-text {
   display: block;
-  /* Show the text when expanded */
 }
-
 .coffee-button:hover {
   width: 150px;
   font-size: 15px;
   height: 65px;
-  /* Expanded width */
 }
-
 .coffee-button:hover #coffee-text {
   display: block;
-  /* Show the text when expanded */
 }
-
+/* buy me css ended here  */
 
 #Contact {
   font-family: 'Playpen Sans', sans-serif;
