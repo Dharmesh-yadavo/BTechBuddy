@@ -84,13 +84,13 @@
 
 body, .navbar{
   /* background-color: #2D7695; */
-  background-image: linear-gradient(  #4696b9 50%, #4696b9);
+  background-image: linear-gradient(  #2393c3 50%, #2393c3);
   color: black;
 }
 
 
 #about-contact{
-  background-image: linear-gradient(  #4696b9 0%, #9e5fce 100%);
+  background-image: linear-gradient(  #2393c3 0%, #9e5fce 100%);
   color: black;
 }
 
@@ -169,6 +169,7 @@ body, .navbar{
   text-align: center;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   transition: transform 0.2s;
+  background-color: rgba(0, 0, 0, 0.76);
 }
 .card:hover {
    transform: scale(1.05);
