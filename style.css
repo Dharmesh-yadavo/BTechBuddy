@@ -1,5 +1,5 @@
 /* background styling started  */
-body, .navbar {
+/* body, .navbar {
   margin: auto;
   font-family: -apple-system, BlinkMacSystemFont, sans-serif;
   overflow: auto;
@@ -68,17 +68,47 @@ body, .navbar {
       transform: translateX(1);
   }
 }
-/* background styling ended   */
 
-/* navbar style added  */
+
 .navbar{
   background-color: transparent;
+} */
+
+
+
+
+
+
+
+
+
+body, .navbar{
+  /* background-color: #2D7695; */
+  background-image: linear-gradient(  #79b4cd 50%, #79b4cd);
+  color: black;
 }
-/* ..  */
+
+
+#about-contact{
+  background-image: linear-gradient(  #79b4cd 0%, #9e5fce 100%);
+  color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
 
 .main{
   display: flex;
-  height: 200px;
+  /* height: 100px; */
   justify-content: center;
 }
 .main_item{
