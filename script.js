@@ -79,7 +79,8 @@ let pdfLinks = [];
     switch (option) {
 
       case 'Notes':
-      pdfLinks.push(`<a href="" target="_blank">Coming Soon</a>`);
+      pdfLinks.push(`<a href="https://drive.google.com/file/d/1ej3-yCaoTmZqrC5wYrGTXWqismTJBBao/view?usp=sharing" target="_blank">Full Semester 1 notes</a>`);
+      // pdfLinks.push(`<a href="" target="_blank"></a>`);
       // pdfLinks.push(`<a href="" target="_blank">Download Notes</a>`);
         break;
       case 'Question Papers':
@@ -111,6 +112,11 @@ let pdfLinks = [];
       case 'Notes':
       pdfLinks.push(`<a href="https://drive.google.com/file/d/1_qmzntbKvwOHvZ_SrJ-ZanwKt1CP5S8H/view?usp=sharing" target="_blank">Unit 1 Notes</a>`);
       pdfLinks.push(`<a href="https://drive.google.com/file/d/1YYTl6D12lWQ1abLvtqpqGtkb3TIe9kfH/view?usp=sharing" target="_blank">Complete Manufacturing Notes</a>`);
+      pdfLinks.push(`<a href="https://drive.google.com/file/d/1hL0HCxT28XJxLXLsNkuGU18LJyS5OQKr/view?usp=sharing" target="_blank">Unit 1 ppt </a>`);
+      pdfLinks.push(`<a href="https://drive.google.com/file/d/1XpJt3kmWFpinaP1ojOmf305GNCZ8iPsk/view?usp=sharing" target="_blank">Unit 2 ppt</a>`);
+      pdfLinks.push(`<a href="https://drive.google.com/file/d/15-UBSSVA76KpHt7YZ7CcM9bhD3vSkeYO/view?usp=sharing" target="_blank">Unit 3 ppt</a>`);
+      pdfLinks.push(`<a href="https://drive.google.com/file/d/1vd_baQXMqtqTEo_GVFoxqtQoFj3taMYY/view?usp=sharing" target="_blank">Unit 4 ppt</a>`);
+
         break;
       case 'Question Papers':
       pdfLinks.push(`<a href="https://drive.google.com/file/d/19IRb_SUGowf8S-w_SQDsn9EK22Vn_Bas/view?usp=sharing" target="_blank">Must Do Questions</a>`);
@@ -139,9 +145,9 @@ let pdfLinks = [];
 
       case 'Notes':
       pdfLinks.push(`<a href="https://drive.google.com/file/d/1l-4xNMthIo8qB6lqct_Bf6mT8YCB2cjn/view?usp=sharing" target="_blank">1st Year Notes</a>`);
-      pdfLinks.push(`<a href="https://drive.google.com/file/d/1HNZXAeeCxS_wx3wIox_WfzSeDG8nZzh3/view?usp=sharing" target="_blank">1st and 2nd Semester Notes</a>`);
-      pdfLinks.push(`<a href="https://drive.google.com/file/d/1A5eh_cp5eVMMw0tT5XNQ1Z4LbRvEfJ-7/view?usp=sharing" target="_blank">DC Circuit Notes 1</a>`);
-      pdfLinks.push(`<a href="https://drive.google.com/file/d/1zn3Rj-ygxK09iIHwhIDbI8WOMi1DvTUO/view?usp=sharing" target="_blank">DC Circuit Notes 2</a>`);
+      // pdfLinks.push(`<a href="https://drive.google.com/file/d/1HNZXAeeCxS_wx3wIox_WfzSeDG8nZzh3/view?usp=sharing" target="_blank">1st and 2nd Semester Notes</a>`);
+      pdfLinks.push(`<a href="https://drive.google.com/file/d/1A5eh_cp5eVMMw0tT5XNQ1Z4LbRvEfJ-7/view?usp=sharing" target="_blank">DC Circuit Notes</a>`);
+      // pdfLinks.push(`<a href="https://drive.google.com/file/d/1zn3Rj-ygxK09iIHwhIDbI8WOMi1DvTUO/view?usp=sharing" target="_blank">DC Circuit Notes 2</a>`);
         break;
       case 'Question Papers':
       pdfLinks.push(`<a href="https://drive.google.com/file/d/16awPRpsy2iWUbsmSLbfQa6yLnldqJj2w/view?usp=sharing" target="_blank">First Semester PYQs</a>`);
