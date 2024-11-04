@@ -22,7 +22,7 @@ let pdfLinks = [];
         pdfLinks.push(`<a href="https://drive.google.com/file/d/1JVcTOHXbysEBhot5zzlJWFQEVcZJZ8pA/view?usp=sharing" target="_blank">Physics Akash</a>`);
         break;
         case 'Videos':
-          pdfLinks.push(`<a href="https://drive.google.com/file/d/1cynyt9t-vOmgbImvOKI2g0hboK_-ngZU/view?usp=sharing">Semester 1 Playlist</a>`);
+          pdfLinks.push(`<a href="https://drive.google.com/file/d/1cynyt9t-vOmgbImvOKI2g0hboK_-ngZU/view?usp=sharing target="_blank">Semester 1 Playlist</a>`);
           break;
       case 'Practical Files':
         pdfLinks.push(`<a href="https://drive.google.com/file/d/1dY2Ab5AgHScE65nhTT12YAONgkzs_2Lo/view?usp=sharing" target="_blank">Lab Manuals</a>`);
@@ -60,7 +60,7 @@ let pdfLinks = [];
       pdfLinks.push(`<a href="https://drive.google.com/file/d/1-TbfqzKkSWxWefUT34BvLCLf91lXsSza/view?usp=sharing" target="_blank">Chaemistry Akash</a>`);
         break;
       case 'Videos':
-        pdfLinks.push(`<a href="https://drive.google.com/file/d/1cynyt9t-vOmgbImvOKI2g0hboK_-ngZU/view?usp=sharing">Semester 1 Playlist</a>`);
+        pdfLinks.push(`<a href="https://drive.google.com/file/d/1cynyt9t-vOmgbImvOKI2g0hboK_-ngZU/view?usp=sharing target="_blank">Semester 1 Playlist</a>`);
         break;
       case 'Practical Files':
       pdfLinks.push(`<a href="https://drive.google.com/file/d/1f4oLnRgGlGqQ4nP2M56VfgKWLgO0jziy/view?usp=sharing" target="_blank">Practical File 1</a>`);
@@ -96,7 +96,7 @@ let pdfLinks = [];
       pdfLinks.push(`<a href="https://drive.google.com/file/d/1-YR2u8sk-xW3S8zmS2-hs6rNZP5iJb1U/view?usp=sharing" target="_blank">Math Akash</a>`);
         break;
       case 'Videos':
-        pdfLinks.push(`<a href="https://drive.google.com/file/d/1cynyt9t-vOmgbImvOKI2g0hboK_-ngZU/view?usp=sharing">Semester 1 Playlist</a>`);
+        pdfLinks.push(`<a href="https://drive.google.com/file/d/1cynyt9t-vOmgbImvOKI2g0hboK_-ngZU/view?usp=sharing target="_blank">Semester 1 Playlist</a>`);
         break;
       case 'Practical Files':
       pdfLinks.push(`<a href="" target="_blank">Coming Soon</a>`);
@@ -135,7 +135,7 @@ let pdfLinks = [];
       pdfLinks.push(`<a href="https://drive.google.com/file/d/1ipa_zKSK71JJ2b7jf_qhxM3oBn4i5VpY/view?usp=sharing" target="_blank">Manufacturing Processes Akash</a>`);
         break;
       case 'Videos':
-        pdfLinks.push(`<a href="https://drive.google.com/file/d/1cynyt9t-vOmgbImvOKI2g0hboK_-ngZU/view?usp=sharing">Semester 1 Playlist</a>`);
+        pdfLinks.push(`<a href="https://drive.google.com/file/d/1cynyt9t-vOmgbImvOKI2g0hboK_-ngZU/view?usp=sharing target="_blank">Semester 1 Playlist</a>`);
         break;
       case 'Practical Files':
       pdfLinks.push(`<a href="" target="_blank">Coming Soon</a>`);
@@ -167,7 +167,7 @@ let pdfLinks = [];
       pdfLinks.push(`<a href="https://drive.google.com/file/d/1BTXDZCvcluPUtotEzVb7zqv9Bl9VTIGl/view?usp=sharing" target="_blank">Electrical Science Akash</a>`);
         break;
       case 'Videos':
-        pdfLinks.push(`<a href="https://drive.google.com/file/d/1cynyt9t-vOmgbImvOKI2g0hboK_-ngZU/view?usp=sharing">Semester 1 Playlist</a>`);
+        pdfLinks.push(`<a href="https://drive.google.com/file/d/1cynyt9t-vOmgbImvOKI2g0hboK_-ngZU/view?usp=sharing" target="_blank>Semester 1 Playlist</a>`);
         break;
       case 'Practical Files':
       pdfLinks.push(`<a href="https://drive.google.com/file/d/10jmDe4JEBE-fV_achjPq2QCaYDGcSYp5/view?usp=sharing" target="_blank">Practical File 1</a>`);
